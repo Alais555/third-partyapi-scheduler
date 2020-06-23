@@ -18,7 +18,6 @@ $(document).ready(function () {// essentially tells engine to load 1)html & 2)cs
   //load any saved data from LocalStorage
   $("#hour-9 .description").val(localStorage.getItem("hour-9"));
 
-  //$("#hour-9 .description").val("skateboard");
   //$(find my elements).val(put a value in there)''
   // $ = jquery thing
   //$(html #elementID .class).val(Storage.getitem(itemName));
