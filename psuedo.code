@@ -1,0 +1,15 @@
+Second Commit
+When the page loads
+show the the current date
+
+Third Commit
+When scrolling down page
+show timeblocks for business hours
+
+Fourth Commit 
+When timeblocks displayed
+show the color coordination to timeblock by past, present, and future
+
+Fifth Commit 
+When I click timeblock
+Then I can eneter an event
